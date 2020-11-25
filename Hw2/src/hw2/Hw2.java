@@ -40,7 +40,7 @@ public class Hw2 {
            }
            System.out.println("");
           
-          
+          //Jakir Hossain Niloy
        }
        //---------------------------------------------------
             for(i=n;i>=1;i--)
